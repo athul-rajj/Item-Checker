@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Edit the api key to your personal Discord token.
 
 5. **Run the Bot**:
-python main.py
+python bot.py
 
 
 ## Usage
